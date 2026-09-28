@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+python-dotenv
+pydantic
+pydantic-settings
+langchain
+langgraph
+langchain-nvidia-ai-endpoints
+langchain-google-genai
+langchain-community
+qdrant-client
+passlib
+python-jose
+bcrypt
+python-multipart
